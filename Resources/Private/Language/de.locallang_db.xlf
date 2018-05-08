@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages"  date="2016-07-07T10:48:51Z" product-name="sah_slider">
+		<header/>
+		<body>
+			<trans-unit id="tx_sahslider">
+				<target translated="yes">SAH slider-Inhaltselement</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.extdescription">
+				<target translated="yes">Erstellt einen Slider</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.link">
+				<target translated="yes">Ziel des Knopf</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.image">
+				<target translated="yes">Bilder</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.assets">
+				<target translated="yes">Desktop Bild</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_image_mobile">
+				<target translated="yes">Mobile Bild</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_svg">
+            	<target translated="yes">SVG Bild</target>
+            </trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_x_desktop">
+				<target translated="yes">Textposition vom linken Rand, Desktop (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_y_desktop">
+				<target translated="yes">Textposition vom oberen Rand, Desktop (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_x_mobile">
+				<target translated="yes">Textposition vom linken Rand, Tablet (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_y_mobile">
+				<target translated="yes">Textposition vom oberen Rand, Tablet (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_width_desktop">
+				<target translated="yes">Text-Breite, Desktop (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_width_mobile">
+				<target translated="yes">Text-Breite, Tablet (%)</target>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_x_desktop">
+            	<target translated="yes">SVG position vom linken Rand, Desktop (%)</target>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_y_desktop">
+            	<target translated="yes">SVG position vom oberen Rand, Desktop (%)</target>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_x_mobile">
+            	<target translated="yes">SVG position vom linken Rand, Tablet (%)</target>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_y_mobile">
+            	<target translated="yes"> SVG position vom oberen Rand, Tablet (%)</target>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_width_desktop">
+            	<target translated="yes">SVG-Breite, Desktop (%)</target>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_width_mobile">
+            	<target translated="yes">SVG-Breite, Tablet (%)</target>
+            </trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_white_text">
+				<target translated="yes">Weisser Text</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

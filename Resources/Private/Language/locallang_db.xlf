@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-07-07T10:48:51Z" product-name="sah_slider">
+		<header/>
+		<body>
+			<trans-unit id="tx_sahslider">
+				<source>Doctrine Sample</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.extdescription">
+				<source>Add a Sah slider</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.link">
+				<source>Target of the button</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.assets">
+				<source>Desktop Image</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_image_mobile">
+				<source>Mobile Mobile</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_svg">
+            	<source>SVG</source>
+            </trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_x_desktop">
+				<source>Header X Position Desktop (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_y_desktop">
+				<source>Header Y Position Desktop (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_x_mobile">
+				<source>Header X Position Tablet (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_pos_y_mobile">
+				<source>Header Y Position Tablet (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_width_desktop">
+				<source>Header Width Desktop (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_textbox_width_mobile">
+				<source>Header Width Tablet (%)</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_x_desktop">
+            	<source>SVG X Position Desktop (%)</source>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_y_desktop">
+            	<source>SVG Y Position Desktop (%)</source>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_x_mobile">
+            	<source>SVG X Position Tablet (%)</source>
+        	</trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_pos_y_mobile">
+                <source>SVG Y Position Tablet (%)</source>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_width_desktop">
+            	<source>SVG Width Desktop (%)</source>
+            </trans-unit>
+            <trans-unit id="tx_sahslider.tx_sah_slider_svg_width_mobile">
+            	<source>SVG Width Tablet (%)</source>
+            </trans-unit>
+			<trans-unit id="tx_sahslider.tx_sah_slider_white_text">
+				<source>White Text</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

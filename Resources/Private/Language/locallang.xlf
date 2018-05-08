@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-07-07T10:48:51Z" product-name="sah_slider">
+		<header/>
+		<body>
+			<trans-unit id="tx_sahslider_domain_model_slider">
+				<source>Doctrine</source>
+			</trans-unit>
+			<trans-unit id="tx_sahslider.more">
+				<source>More Infos</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

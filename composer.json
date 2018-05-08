@@ -1,0 +1,26 @@
+{
+  "name": "LucaLane/doctrine-sample",
+  "description": "Extension for customer specific requirements.",
+  "version": "2.0.1",
+  "type": "typo3-cms-extension",
+  "license": ["GPL-2.0-or-later"],
+  "authors": [
+    {
+      "name": "Luca Aebischer",
+      "role": "Project Owner"
+    },
+    {
+      "name": "Luca Aebischer",
+      "role": "Developer"
+    }
+  ],
+  "replace": {
+    "doctrine_sample": "*",
+    "LucaLane/doctrine_sample": "self.version"
+  },
+  "autoload": {
+    "psr-4": {
+      "LucaLane\\DoctrineSample\\": "Classes"
+    }
+  }
+}
